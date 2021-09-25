@@ -8,4 +8,4 @@
 JavaScript, HTML5, CSS3,  Git, БЭМ, PostgreSQL.
 
 Мои контакты:
-telephone_receiver Telegram: @takeruit
+Telegram: @takeruit
