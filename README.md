@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @TakerulHayashi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Люблю писать код и анализировать результаты его работы
+- 👀 Стремлюсь писать чистый и читабельный код
+- 🌱 Всегда есть что улучшить
+- 💞️ Стараюсь конструктивно справляться с проблемами
+- 📫 Хочу стать активным участником сильной команды
 
-<!---
-TakerulHayashi/TakerulHayashi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Мой стек:
+JavaScript, HTML5, CSS3,  Git, БЭМ, PostgreSQL.
+
+Мои контакты:
+telephone_receiver Telegram: @takeruit
